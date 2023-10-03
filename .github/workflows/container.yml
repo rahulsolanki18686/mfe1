@@ -6,6 +6,8 @@ on:
       - main
     paths:
       - "packages/container/**"
+  workflow_dispatch: # Put here!!
+    
 
 defaults:
   run:
