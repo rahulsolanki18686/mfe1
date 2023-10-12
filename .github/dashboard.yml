@@ -8,7 +8,6 @@ on:
       - "packages/dashboard/**"
   workflow_dispatch: # Put here!!
     
-    
 
 defaults:
   run:
